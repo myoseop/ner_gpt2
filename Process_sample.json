@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "LOT_ID": "R1DF29000400",
+            "DISPLAY_TYPE": "WOLED_OT / OLED TV",
+            "불량명": "TT_뜯김",
+            "현상": "A Cell 비패드부 간이점등용 PAD부 뜯김 발생 (4매중 2매 발생)",
+            "원인": "Anode 증착 전 PAS4 공정에서 He Plasma 공정 기인으로 발생 추정",
+            "개선": "Anode 증착 전 PAS4 He Plasma 공정 skip   ART PAD부 GI Multi hole 적용 시 동일 불량 현상 개선되었으며 추가 불량 발생 시 간이점등용 PAd부에도 Multi hole 적용 예정"
+        },
+        {
+            "LOT_ID": "R1BG29000300",
+            "DISPLAY_TYPE": "OLED (RGB) / Auto",
+            "불량명": "JR_PR 잔류",
+            "현상": "SD PTN 후 Metal 위 PR 잔사 잔류",
+            "원인": "D/E 조건 및 설비 Issue로 추정",
+            "개선": "개선 조건 확보 중이며, 현재 불량 발생 시 Ashing 후 추가 Strip 진행하여 제거 中"
+        },
+        {
+            "LOT_ID": "R1NA29000200",
+            "DISPLAY_TYPE": "OLED(RGB)_OT / Auto",
+            "불량명": "JR_PR 잔류",
+            "현상": "SD D/E, Strip 후 SD 메탈 위 PR 잔류 불량 발견됨",
+            "원인": "D/E 설비, 공정 관련 Issue로 추정되나 정확한 원인 불명",
+            "개선": "Ashing 및 재strip 진행"
+        }
+    ]
+}
